@@ -8,7 +8,6 @@ import {
   StyleSheet,
   Platform,
   ViewPropTypes,
-  Animated
 } from 'react-native';
 
 import Line from '../line';
